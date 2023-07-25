@@ -20,3 +20,7 @@
 - <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuszuchibalbinot&show_icons=true&locale=en&layout=compact" alt="matheuszuchibalbinot" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheuszuchibalbinot&show_icons=true&locale=en" alt="matheuszuchibalbinot" /></p>

@@ -1,12 +1,11 @@
 ### Olá 👋, meu nome é Matheus Zuchi Balbinot:
-
-- 🔭 Atualmente almejando um vaga de emprego como estagiário em Desenvolvimento de Software ...
-- 🌱 Atualmente apreendendo:    
+🔭 Atualmente almejando um vaga de emprego como estagiário em Desenvolvimento de Software ...
+🌱 Atualmente apreendendo:    
   <p> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </p>
 
 ### Redes Sociais:
 
-- [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-zuchi-balbinot-23a82b241/)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-zuchi-balbinot-23a82b241/)
 
 ### Competências:
 

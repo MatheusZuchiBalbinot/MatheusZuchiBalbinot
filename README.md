@@ -1,8 +1,9 @@
 ### Olá 👋, meu nome é Matheus Zuchi Balbinot
 
 - Um pouco sobre a minha pessoa:
-  - Atualmente trabalhando na [Optidata](https://www.optidata.cloud/optiwork/)
-  - Cursando Ciência da Computação na [Universidade Federal Fronteira Sul](https://www.uffs.edu.br/), em Chapecó-SC
+  
+  - Atualmente <b>trabalhando</b> na [Optidata](https://www.optidata.cloud/optiwork/)
+  - <b>Cursando</b> Ciência da Computação na [Universidade Federal Fronteira Sul](https://www.uffs.edu.br/), em Chapecó-SC
 
 ### Competências:
 <p align="center">

@@ -1,4 +1,4 @@
-### Olá 👋, meu nome é Matheus Zuchi Balbinot:
+### Olá 👋, meu nome é Matheus Zuchi Balbinot
 
 ### Redes Sociais:
 

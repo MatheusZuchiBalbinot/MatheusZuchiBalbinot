@@ -19,7 +19,7 @@
 </p>
 
 ### Estatísticas:
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 600px;">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 450px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuszuchibalbinot&theme=dracula" alt="matheuszuchibalbinot" />
   <img src="https://github-readme-stats.vercel.app/api?username=matheuszuchibalbinot&show_icons=true&locale=en&theme=dracula" alt="matheuszuchibalbinot" />
 </div>

@@ -12,13 +12,22 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </p>
 
-### Estatísticas:
+### Estatísticas do GitHub
+
 <table>
   <tr>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuszuchibalbinot&theme=dracula" alt="matheuszuchibalbinot" /></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=matheuszuchibalbinot&show_icons=true&locale=en&theme=dracula" alt="matheuszuchibalbinot" /></td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuszuchibalbinot&theme=dracula" alt="GitHub Streak Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=matheuszuchibalbinot&show_icons=true&locale=pt-br&theme=dracula" alt="GitHub Stats" />
+    </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=matheuszuchibalbinot&theme=dracula" alt="GitHub Trophies" />
+</p>
 
 ### Redes Sociais:
 <p align="center">

@@ -14,6 +14,10 @@
 
 ### Estatísticas do GitHub
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=matheuszuchibalbinot&theme=dracula&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
 <table>
   <tr>
     <td align="center">
@@ -24,10 +28,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheuszuchibalbinot&theme=dracula" alt="GitHub Trophies" />
-</p>
 
 ### Redes Sociais:
 <p align="center">

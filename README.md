@@ -39,10 +39,6 @@
   <a href="https://www.linkedin.com/in/matheus-zuchi-balbinot-23a82b241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/matheusbalbinotzuchi/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
 </p>
 
 <p align="center">

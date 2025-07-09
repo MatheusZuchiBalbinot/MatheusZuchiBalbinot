@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋, eu sou o Matheus Zuchi Balbinot</h2>
+<h3 align="center">Olá 👋, eu sou o Matheus Zuchi Balbinot </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;PHP+%7C+Laravel+%7C+JavaScript" alt="Typing SVG" />

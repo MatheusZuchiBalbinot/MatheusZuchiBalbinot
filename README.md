@@ -11,7 +11,7 @@
 - 💼 Atualmente trabalho como desenvolvedor na [Optidata](https://www.optidata.cloud/optiwork/)
 - 🎓 Estudando Ciência da Computação na [UFFS](https://www.uffs.edu.br/)
 - 🧠 Desenvolvedor **fullstack**, com foco em **PHP (Laravel)** e **JavaScript**
-- 🔍 Atualmente estou apreendedo mais sobre em **DevOps** e **arquitetura de software**
+- 🔍 Atualmente estou apreendedo mais sobre **arquitetura de software**
 
 ---
 
@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=matheuszuchibalbinot&theme=dracula&row=1&column=9" alt="GitHub Trophies" /><br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuszuchibalbinot&theme=dracula" alt="GitHub Streak Stats" width="47%" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=matheuszuchibalbinot&show_icons=true&locale=pt-br&theme=dracula" alt="GitHub Stats" width="47%" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=matheuszuchibalbinot&show_icons=true&locale=pt-br&theme=dracula" alt="GitHub Stats" width="47%" /> -->
 </div>
 
 ---

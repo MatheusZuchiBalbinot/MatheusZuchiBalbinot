@@ -18,7 +18,6 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheuszuchibalbinot&theme=dracula&row=1&column=9" alt="GitHub Trophies" /><br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuszuchibalbinot&theme=dracula" alt="GitHub Streak Stats" width="47%" />
 </div>
 

@@ -9,7 +9,8 @@
 - 💼 Desenvolvedor full-stack com **~3 anos de experiência profissional**
 - 🎓 Ciência da Computação no **Instituto Federal Catarinense** (2023 até o momento)
 - 💻 Técnico em Informática para Internet integrado ao ensino médio, também no **IFC**
-- ⚙️ Foco em back-end de alta performance: runtimes PHP, processamento assíncrono e resiliência de APIs
+- 🏗️ Interessado em arquitetura de software, sistemas distribuídos e observabilidade
+- 📖 Atualmente lendo **Designing Data-Intensive Applications**, de Martin Kleppmann
 
 ### 🛠️ Tecnologias
 

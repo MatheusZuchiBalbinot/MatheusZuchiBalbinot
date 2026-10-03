@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=120&section=header&text=Matheus%20Zuchi%20Balbinot&fontSize=34&fontColor=ffffff&fontAlignY=32&desc=Desenvolvedor%20Full-stack&descAlignY=56&descSize=16&animation=fadeIn" width="100%" alt="Matheus Zuchi Balbinot" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=440&height=32&lines=~3+anos+de+experi%C3%AAncia+profissional;PHP+%7C+Laravel+%7C+TypeScript+%7C+Go" alt="Typing SVG" />
-</p>
-
 ### 🧑‍💻 Sobre mim
 
 - 💼 Desenvolvedor full-stack com **~3 anos de experiência profissional**

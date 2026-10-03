@@ -9,7 +9,7 @@
 - 💼 Desenvolvedor full-stack com **~3 anos de experiência profissional**
 - 🎓 Ciência da Computação no **Instituto Federal Catarinense** (2023 até o momento)
 - 💻 Técnico em Informática para Internet integrado ao ensino médio, também no **IFC**
-- 🏗️ Interessado em arquitetura de software, sistemas distribuídos e observabilidade
+- ⚙️ Foco em back-end de alta performance: runtimes PHP, processamento assíncrono e resiliência de APIs
 
 ### 🛠️ Tecnologias
 
@@ -29,8 +29,8 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MatheusZuchiBalbinot&theme=tokyonight&hide_border=true" width="54%" alt="Sequência de contribuições" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZuchiBalbinot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=css,blade,shell" width="42%" alt="Linguagens mais usadas" />
+  <img src="https://streak-stats.demolab.com/?user=MatheusZuchiBalbinot&theme=tokyonight&hide_border=true" height="180" alt="Sequência de contribuições" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZuchiBalbinot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=css,blade,shell" height="180" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">

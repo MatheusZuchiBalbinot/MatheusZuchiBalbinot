@@ -30,8 +30,7 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MatheusZuchiBalbinot&theme=tokyonight&hide_border=true&card_width=495&card_height=165&hide_current_streak=true" width="49%" alt="Sequência de contribuições" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZuchiBalbinot&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=css,blade,shell&card_width=495" width="49%" alt="Linguagens mais usadas" />
+  <img src="https://raw.githubusercontent.com/MatheusZuchiBalbinot/MatheusZuchiBalbinot/stats/stats.svg" width="100%" alt="Contribuições e linguagens mais usadas" />
 </p>
 
 <p align="center">

@@ -20,24 +20,10 @@
 
 ### 🚀 Projetos
 
-**[Palimpsesto](https://github.com/MatheusZuchiBalbinot/palimpsesto)** <sub>Go · React · Yjs · PostgreSQL</sub><br>Editor de texto colaborativo em tempo real em que o servidor não consegue ler uma linha do documento.
-- Criptografia ponta a ponta (X25519, XChaCha20-Poly1305) com cada edição assinada em Ed25519, tratando o próprio servidor como adversário
-- CRDT com Yjs para várias pessoas editarem ao mesmo tempo sobre WebSocket, sem conflito
-- Backend em Go com DDD em camadas e commands/queries separados, só a stdlib no roteamento
-
-**[pyle](https://github.com/MatheusZuchiBalbinot/pyle)** <sub>Node.js · NestJS · React · Redis · PostgreSQL</sub><br>API gateway completo: data plane, control plane, console de operação e IA.
-- Gateway em `node:http` puro com balanceamento, circuit breaker, health checks, retries e rate limit distribuído
-- Configuração aplicada a quente em vários gateways via Redis, com telemetria, histogramas de latência e alertas
-- Assistente de IA com ferramentas só de leitura, que propõe ações e nunca executa sem o operador confirmar
-
-**[MeTube](https://github.com/MatheusZuchiBalbinot/metube)** <sub>Laravel · React · PostgreSQL · Redis</sub><br>Plataforma de vídeo com upload resumível, streaming adaptativo e IA.
-- Upload resumível (tus), processamento em fila com Horizon e streaming HLS em várias resoluções
-- Transcrição com Whisper, resumo, capítulos e chat com IA sobre o conteúdo do vídeo
-- Busca full-text com `tsvector` + GIN, OpenTelemetry e PHPStan nível 8
-
-**[PHP Runtime Lab](https://github.com/MatheusZuchiBalbinot/php-runtime-lab)** <sub>PHP · Docker · k6</sub><br>Benchmark de oito runtimes PHP (FPM, Swoole, RoadRunner, FrankenPHP, Octane) com 1 CPU e 512 MB.
-- Medi quanto custa o bootstrap a cada requisição contra workers persistentes e corrotinas
-- Numa rota com espera bloqueante, o Swoole fez 13 mil rps enquanto os outros ficaram presos perto de 400
+- **[Palimpsesto](https://github.com/MatheusZuchiBalbinot/palimpsesto)**: editor colaborativo com criptografia ponta a ponta e cada edição assinada, tratando o próprio servidor como adversário. CRDT com Yjs para edição simultânea e backend em Go com DDD
+- **[pyle](https://github.com/MatheusZuchiBalbinot/pyle)**: API gateway com circuit breaker, rate limit distribuído e configuração aplicada a quente. Console em tempo real e assistente de IA que só propõe ações, o operador confirma
+- **[MeTube](https://github.com/MatheusZuchiBalbinot/metube)**: plataforma de vídeo com upload resumível, processamento em fila e streaming HLS. Transcrição com Whisper e chat com IA sobre o vídeo
+- **[PHP Runtime Lab](https://github.com/MatheusZuchiBalbinot/php-runtime-lab)**: benchmark de oito runtimes PHP (FPM, Swoole, RoadRunner, FrankenPHP, Octane) com recursos limitados, comparando workers persistentes e corrotinas
 
 ### 📊 Estatísticas
 

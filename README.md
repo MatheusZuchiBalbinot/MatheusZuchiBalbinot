@@ -14,7 +14,7 @@
 ### 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,nodejs,nestjs,go,python,react,vite,tailwind,html,css,postgres,redis,prisma,docker,nginx,githubactions,vitest,git,github,bash,linux,vscode&perline=13" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,nodejs,nestjs,go,python,react,vite,tailwind,html,css,postgres,redis,prisma,docker,nginx,githubactions,prometheus,vitest,git,github,bash,linux,vscode&perline=13" alt="Tecnologias" />
 </p>
 
 ### 🚀 Projetos
@@ -29,8 +29,8 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MatheusZuchiBalbinot&theme=tokyonight&hide_border=true" height="180" alt="Sequência de contribuições" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZuchiBalbinot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=css,blade,shell" height="180" alt="Linguagens mais usadas" />
+  <img src="https://streak-stats.demolab.com/?user=MatheusZuchiBalbinot&theme=tokyonight&hide_border=true&card_width=495&card_height=190" width="49%" alt="Sequência de contribuições" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZuchiBalbinot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=css,blade,shell&card_width=495" width="49%" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">

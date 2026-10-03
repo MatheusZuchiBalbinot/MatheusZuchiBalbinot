@@ -20,12 +20,24 @@
 
 ### 🚀 Projetos
 
-<p align="center">
-  <a href="https://github.com/MatheusZuchiBalbinot/pyle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusZuchiBalbinot&repo=pyle&theme=tokyonight&hide_border=true" width="49%" alt="pyle" /></a>
-  <a href="https://github.com/MatheusZuchiBalbinot/metube"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusZuchiBalbinot&repo=metube&theme=tokyonight&hide_border=true" width="49%" alt="metube" /></a>
-  <a href="https://github.com/MatheusZuchiBalbinot/palimpsesto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusZuchiBalbinot&repo=palimpsesto&theme=tokyonight&hide_border=true" width="49%" alt="palimpsesto" /></a>
-  <a href="https://github.com/MatheusZuchiBalbinot/php-runtime-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusZuchiBalbinot&repo=php-runtime-lab&theme=tokyonight&hide_border=true" width="49%" alt="php-runtime-lab" /></a>
-</p>
+**[Palimpsesto](https://github.com/MatheusZuchiBalbinot/palimpsesto)** <sub>Go · React · Yjs · PostgreSQL</sub><br>Editor de texto colaborativo em tempo real em que o servidor não consegue ler uma linha do documento.
+- Criptografia ponta a ponta (X25519, XChaCha20-Poly1305) com cada edição assinada em Ed25519, tratando o próprio servidor como adversário
+- CRDT com Yjs para várias pessoas editarem ao mesmo tempo sobre WebSocket, sem conflito
+- Backend em Go com DDD em camadas e commands/queries separados, só a stdlib no roteamento
+
+**[pyle](https://github.com/MatheusZuchiBalbinot/pyle)** <sub>Node.js · NestJS · React · Redis · PostgreSQL</sub><br>API gateway completo: data plane, control plane, console de operação e IA.
+- Gateway em `node:http` puro com balanceamento, circuit breaker, health checks, retries e rate limit distribuído
+- Configuração aplicada a quente em vários gateways via Redis, com telemetria, histogramas de latência e alertas
+- Assistente de IA com ferramentas só de leitura, que propõe ações e nunca executa sem o operador confirmar
+
+**[MeTube](https://github.com/MatheusZuchiBalbinot/metube)** <sub>Laravel · React · PostgreSQL · Redis</sub><br>Plataforma de vídeo com upload resumível, streaming adaptativo e IA.
+- Upload resumível (tus), processamento em fila com Horizon e streaming HLS em várias resoluções
+- Transcrição com Whisper, resumo, capítulos e chat com IA sobre o conteúdo do vídeo
+- Busca full-text com `tsvector` + GIN, OpenTelemetry e PHPStan nível 8
+
+**[PHP Runtime Lab](https://github.com/MatheusZuchiBalbinot/php-runtime-lab)** <sub>PHP · Docker · k6</sub><br>Benchmark de oito runtimes PHP (FPM, Swoole, RoadRunner, FrankenPHP, Octane) com 1 CPU e 512 MB.
+- Medi quanto custa o bootstrap a cada requisição contra workers persistentes e corrotinas
+- Numa rota com espera bloqueante, o Swoole fez 13 mil rps enquanto os outros ficaram presos perto de 400
 
 ### 📊 Estatísticas
 

@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=440&height=32&lines=~3+anos+de+experi%C3%AAncia+profissional;PHP+%7C+Laravel+%7C+TypeScript+%7C+Go" alt="Typing SVG" />
-  <a href="https://www.linkedin.com/in/matheus-zuchi-balbinot-23a82b241/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ### 🧑‍💻 Sobre mim
@@ -30,6 +29,10 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MatheusZuchiBalbinot/MatheusZuchiBalbinot/metrics/isocalendar.svg" width="54%" alt="Calendário de contribuições em 3D" />
+  <img src="https://streak-stats.demolab.com/?user=MatheusZuchiBalbinot&theme=tokyonight&hide_border=true" width="54%" alt="Sequência de contribuições" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZuchiBalbinot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=css,blade,shell" width="42%" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-zuchi-balbinot-23a82b241/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>

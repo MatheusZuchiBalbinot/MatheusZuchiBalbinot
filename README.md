@@ -44,9 +44,4 @@
   <img src="https://streak-stats.demolab.com/?user=MatheusZuchiBalbinot&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusZuchiBalbinot/MatheusZuchiBalbinot/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/MatheusZuchiBalbinot/MatheusZuchiBalbinot/output/github-snake.svg" alt="Snake comendo o gráfico de contribuições" />
-</picture>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%" alt="" />

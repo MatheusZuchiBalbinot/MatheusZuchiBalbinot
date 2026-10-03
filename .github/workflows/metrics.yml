@@ -1,0 +1,42 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/metrics.yml']
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Contribution calendar (3D)
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          filename: isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          committer_branch: metrics
+          base: ''
+          config_timezone: America/Sao_Paulo
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Most used languages
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          filename: languages.svg
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          committer_branch: metrics
+          base: ''
+          config_timezone: America/Sao_Paulo
+          plugin_languages: yes
+          plugin_languages_ignored: css, blade, shell, html
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_threshold: 0%

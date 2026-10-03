@@ -30,11 +30,11 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MatheusZuchiBalbinot&theme=tokyonight&hide_border=true&card_width=495&card_height=190&hide_current_streak=true" width="49%" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=MatheusZuchiBalbinot&theme=tokyonight&hide_border=true&card_width=495&card_height=165&hide_current_streak=true" width="49%" alt="Sequência de contribuições" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZuchiBalbinot&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=css,blade,shell&card_width=495" width="49%" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-zuchi-balbinot-23a82b241/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:matheusbalbinotzuchi@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=matheusbalbinotzuchi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>

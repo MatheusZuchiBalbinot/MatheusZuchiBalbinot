@@ -11,7 +11,7 @@
 ### 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,nodejs,nestjs,go,python,react,vite,tailwind,html,css,postgres,redis,prisma,docker,nginx,githubactions,prometheus,vitest,git,github,bash,linux,vscode&perline=13" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,nodejs,nestjs,python,react,vite,tailwind,html,css,postgres,redis,prisma,docker,nginx,vitest,git,github,bash,linux,vscode&perline=13" alt="Tecnologias" />
 </p>
 
 ### 🚀 Projetos

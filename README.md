@@ -4,7 +4,7 @@
 
 - 💼 Desenvolvedor full-stack com **~3 anos de experiência profissional**
 - 💻 Técnico em Informática para Internet integrado ao ensino médio no **[Instituto Federal Catarinense](https://ifc.edu.br/)**
-- 🎓 Ciência da Computação, também no **[IFC](https://ifc.edu.br/)** (2023 até o momento)
+- 🎓 Ciência da Computação, também no **[Instituto Federal Catarinense](https://ifc.edu.br/)** (2023 até o momento)
 - 🏗️ Interessado em arquitetura de software, sistemas distribuídos e observabilidade
 - 📖 Atualmente lendo **Designing Data-Intensive Applications**, de Martin Kleppmann
 
